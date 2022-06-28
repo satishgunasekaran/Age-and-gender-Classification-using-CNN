@@ -12,4 +12,4 @@ https://www.kaggle.com/satishgunasekaran/age-and-gender-classification-using-cnn
 - Then run the file using `python app.py`
 
 # Project Video
-![Alt text]('age_gender.gif')
+![Alt text](https://github.com/satishgunasekaran/Age-and-gender-Classification-using-CNN/blob/main/age_gender.gif)
